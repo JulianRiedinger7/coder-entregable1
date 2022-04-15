@@ -20,7 +20,7 @@ const recomendar = (decision,opcion) => {
         if(opcion == "1"){
             alert("Actualemnte se esta jugando el torneo 'Masters de Reykjavik!'");
         } else if (opcion == "2"){
-            alert("Acaba de clasificar un equipo argentino al torneo mas importante!");
+            alert("Acaba de clasificar un equipo argentino (9Z) al torneo mas importante!");
         } else alert("La final de la Liga Latinoamericana (LLA) se jugara en Buenos Aires!");
     }else{
         alert("Nos vemos!")
